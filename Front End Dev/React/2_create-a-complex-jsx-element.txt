@@ -1,0 +1,9 @@
+const JSX = (<div>
+<h1>Heading</h1>
+<p>Paragraph</p>
+<ul>
+<li>Item</li>
+<li>Item</li>
+<li>Item</li>
+</ul>
+</div>);
